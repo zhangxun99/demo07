@@ -1,0 +1,8 @@
+# Project exclude paths
+/cloud8001/target/
+/cloud8002/target/
+/cloud-commons/target/
+/cloud-euerka-sever7002/target/
+/cloud-eureka-sever7001/target/
+/cloud-user-feign-order80/target/
+/cloud-user-order80/target/

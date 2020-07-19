@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-euerka-sever7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-eureka-sever7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-user-feign-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-user-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8002" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
