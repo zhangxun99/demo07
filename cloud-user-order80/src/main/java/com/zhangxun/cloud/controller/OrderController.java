@@ -9,7 +9,6 @@ import org.springframework.web.client.RestTemplate;
 import javax.annotation.Resource;
 
 @RestController
-
 public class OrderController {
     public static final String CLOUD_URL = "http://CLOUD-SERVICE";
 
