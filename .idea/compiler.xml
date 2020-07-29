@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-euerka-sever7002" />
         <module name="cloud-user-order80" />
+        <module name="cloud-gateway-gateway9527" />
         <module name="cloud-commons" />
         <module name="cloud-user-feign-order80" />
         <module name="cloud-eureka-sever7001" />
@@ -21,6 +22,7 @@
       <module name="cloud-commons" target="1.8" />
       <module name="cloud-euerka-sever7002" target="1.8" />
       <module name="cloud-eureka-sever7001" target="1.8" />
+      <module name="cloud-gateway-gateway9527" target="1.8" />
       <module name="cloud-provider-hystrix8001" target="1.8" />
       <module name="cloud-user-feign-hystrix-order80" target="1.8" />
       <module name="cloud-user-feign-order80" target="1.8" />
