@@ -1,0 +1,34 @@
+server:
+  port: 3344
+
+spring:
+  application:
+    name: cloud-config-center
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/zhangxun99/cloud-config.git
+          #搜素目录
+          search-paths:
+            - cloud-config
+          username: zhangxun99
+          password: zx970105
+    lable: master
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka.7001.com:7001/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "bus-refresh"
